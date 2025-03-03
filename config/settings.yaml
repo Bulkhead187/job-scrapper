@@ -1,0 +1,7 @@
+search_queries:
+  - "Software Engineer"
+  - "Data Scientist"
+locations:
+  - "Berlin"
+  - "Remote"
+openai_api_key: "sk-..."   # dont forget to insert ur openai key
